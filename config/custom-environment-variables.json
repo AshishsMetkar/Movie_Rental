@@ -1,0 +1,5 @@
+{
+    "password":"passwordkey",
+    "db":"connecttodb",
+    "mailpassword":"passwordofmailid"
+}
