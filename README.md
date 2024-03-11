@@ -20,6 +20,7 @@ git clone(https://github.com/AshishsMetkar/Movie_Rental.git)
 # Navigate to the project directory: 
 cd movierentalwebapp
 Install dependencies: npm install
+install node version 18.0.1
 Set up MongoDB and update configuration
 Start the application: npm start
 
