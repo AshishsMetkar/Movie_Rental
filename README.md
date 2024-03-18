@@ -6,13 +6,13 @@ Users can browse a vast collection of movies, select their preferred titles, and
 Browse and search for movies.\
 Intuitive rental process.\
 Secure payment processing.\
-Responsive design for various devices.\
+Responsive design for various devices.
 
 # Technologies Used
 Frontend: React.js, Redux, Bootstrap.\
 Backend: Node.js, Express.js.\
 Database: MongoDB, Mongoose.\
-State Management: Redux.\
+State Management: Redux.
 
 # Clone the repository
 git clone(https://github.com/AshishsMetkar/Movie_Rental.git)
@@ -22,5 +22,5 @@ cd movierentalwebapp.\
 Install dependencies: npm install.\
 install node version 18.0.1.\
 Set up MongoDB and update configuration.\
-Start the application: npm start.\
+Start the application: npm start.
 
